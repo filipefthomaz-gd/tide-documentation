@@ -5,8 +5,12 @@ export default defineConfig({
   description: 'Transitional Interactive Dynamic Elements — Unity tweening system',
   base: '/tide-documentation/',
 
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/tide-documentation/favicon.png' }]
+  ],
+
   themeConfig: {
-    logo: '/logo.svg',
+    logo: '/favicon.png',
 
     nav: [
       { text: 'Guide',     link: '/guide/getting-started' },
