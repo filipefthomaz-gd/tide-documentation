@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: TIDE
+  name: Tide
   text: Unity tweening system
   tagline: Fluent, awaitable tweens for Transforms, UI, post-processing, and audio. No setup required — just call and chain.
   actions:
